@@ -15,21 +15,21 @@ const Page = () => {
             </div>
             <div class="about-text">
                 <h1> Declic studio MG </h1>
-                <p> <i> Déclic Studio MG a été créer en 2019 par une groupes de 4 personnes qui ont une passion ardente
+                <p> <i>{` Déclic Studio MG a été créer en 2019 par une groupes de 4 personnes qui ont une passion ardente
                         pour
-                        la photographie. </i> </p>
-                <p> <i> Depuis l'année 2019, nous avons parcouru un chemin remarquable, élargissant notre portée,
+                        la photographie.`} </i> </p>
+                <p> <i> {`Depuis l'année 2019, nous avons parcouru un chemin remarquable, élargissant notre portée,
                         perfectionnant notre métier et établissant des liens durables avec nos clients. Chaque séance
                         photo
-                        est une nouvelle aventure.</i> </p>
-                <p> <i> Chez Déclic Studio MG, nous croyons fermement que chaque moment est précieux et mérite d'être
+                        est une nouvelle aventure.`} </i> </p>
+                <p> <i> {`Chez Déclic Studio MG, nous croyons fermement que chaque moment est précieux et mérite d'être
                         préservé pour l'éternité. Notre vision est de transformer les instants fugaces en souvenirs
-                        impérissables, en capturant l'émotion, la beauté et l'authenticité dans chaque cliché. </i> </p>
-                <p> <i> En tant que studio de photographie, notre engagement envers nos clients va au-delà de simplement
+                        impérissables, en capturant l'émotion, la beauté et l'authenticité dans chaque cliché.`}  </i> </p>
+                <p> <i> {`En tant que studio de photographie, notre engagement envers nos clients va au-delà de simplement
                         prendre des photos. Nous nous efforçons de créer une expérience exceptionnelle à chaque étape du
                         processus, de la planification initiale à la livraison finale, en veillant à ce que chaque
                         client se
-                        sente valorisé, entendu et inspiré. </i> </p>
+                        sente valorisé, entendu et inspiré.`}  </i> </p>
 
                 <ul>
                     <li>
