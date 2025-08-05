@@ -30,7 +30,7 @@ const Page = () => {
                 </div>
                 <div class="one-line">
                     <label>
-                        Type d'évènement
+                       {`Type d'évènement`} 
                     </label>
                     <select name="" id="">
                         <option value="">Mariage</option>
