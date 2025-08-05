@@ -30,7 +30,7 @@ import fs from 'fs';
 import path from 'path';
 
 export async function GET() {
-    const dossier = './public/Prod'; // Chemin vers le dossier contenant les fichiers
+    const dossier = './public/'; // Chemin vers le dossier contenant les fichiers
     const fichiers = fs.readdirSync(path.join(process.cwd(), dossier));
   
     return Response.json({ fichiers })
